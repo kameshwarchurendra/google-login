@@ -8,11 +8,11 @@ public function index(){
       // Creating new google client instance
       $google_client = new Google_Client();
 
-      $google_client->setClientId('501667225494-jv13qa5q5q5ulq4709m6id2a8sagoc88.apps.googleusercontent.com'); //Define your ClientID 
+      $google_client->setClientId('############################'); //Define your ClientID 
     
-      $google_client->setClientSecret('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'); //Define your Client Secret Key 
+      $google_client->setClientSecret('#######################'); //Define your Client Secret Key 
     
-      $google_client->setRedirectUri('https://humfans.com/newtest/googlesigin/welcome/index'); //Define your Redirect Uri
+      $google_client->setRedirectUri('https://exmple.com/newtest/googlesigin/welcome/index'); //Define your Redirect Uri
     
       $google_client->addScope('email');
     
