@@ -53,9 +53,7 @@ public function index(){
                      
                 }
                 
-                 
-             
-                 
+                        
     
         }
   $dt['loginURL'] = $google_client->createAuthUrl();
