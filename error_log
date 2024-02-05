@@ -1,0 +1,4 @@
+[17-Aug-2021 10:31:19 UTC] PHP Fatal error:  Cannot redeclare Welcome::index() in /home/r3bc6l32c837/public_html/application/controllers/Welcome.php on line 10
+[17-Aug-2021 10:31:21 UTC] PHP Fatal error:  Cannot redeclare Welcome::index() in /home/r3bc6l32c837/public_html/application/controllers/Welcome.php on line 10
+[17-Aug-2021 22:36:39 Asia/Kolkata] PHP Fatal error:  Cannot redeclare User_Model::get_all_gallery() in /home/r3bc6l32c837/public_html/application/models/User_Model.php on line 62
+[04-Feb-2024 04:59:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'json.so' (tried: /opt/alt/php80/usr/lib64/php/modules/json.so (/opt/alt/php80/usr/lib64/php/modules/json.so: cannot open shared object file: No such file or directory), /opt/alt/php80/usr/lib64/php/modules/json.so.so (/opt/alt/php80/usr/lib64/php/modules/json.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
